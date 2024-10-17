@@ -13,3 +13,5 @@ also if you want to wait less on the loading bars you can just hold spacebar dow
 if none of that works i also compiled the program to wasm. so you can just cd into the target folder
 and host the files in order to properly load the js (or just `python -m http.server 8080`) and then go to localhost:8080/game.html
 and it should just work from there. gl 
+
+(written using raylib my code is really bad and just scraped together)
